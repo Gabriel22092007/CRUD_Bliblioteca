@@ -1,0 +1,1 @@
+Esse é um projeto de um sistema de biblioteca feito em PHP, usando o MySQL com o XAMPP para armazenar de dados. Ele permite criar, ler, atualizar e deletar informações sobre os autores, livros, leitores e empréstimos.
